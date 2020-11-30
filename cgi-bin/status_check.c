@@ -10,7 +10,7 @@ int main () {
    cout << "Content-type:text/html\r\n\r\n"<<endl;
    char *value = getenv("QUERY_STRING");
    strcat(t,value);
-   status = system(strcat(t," | grep -v grep | head -n 1 | awk '{ print $1\" \"$3\" \"$2\" \"$5\" \"$4}'"));
+   status = system(strcat(t," | grep -v grep | head -n 1 | awk '{ print $1\" \"$3\" \"$2\" \"$5\" \"$4}'")); 
    
    return 0;
 }

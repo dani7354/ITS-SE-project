@@ -3,3 +3,4 @@ java-part/.idea/
 desktop-app/.idea/
 *.yml
 .DS_STORE
+.vscode/

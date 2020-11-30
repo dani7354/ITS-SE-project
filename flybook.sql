@@ -273,7 +273,7 @@ INSERT INTO `airports` (`id`, `airport`, `code`) VALUES
 (205, 'Atuona, French Polynesia ', 'AUQ'),
 (206, 'Atyrau, Kazakhstan ', 'GUW'),
 (207, 'Auckland, New Zealand ', 'AKL'),
-(208, 'Augsburg/Munich, Germany ', 'AGB'),
+(208, 'Augsburg/Munich, Germany', 'AGB'),
 (209, 'Augusta, GA ', 'AGS'),
 (210, 'Augusta, ME ', 'AUG'),
 (211, 'Auki, Solomon Islands ', 'AKS'),
